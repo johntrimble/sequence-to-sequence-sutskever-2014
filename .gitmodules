@@ -1,0 +1,3 @@
+[submodule "lib/mosesdecoder"]
+	path = lib/mosesdecoder
+	url = https://github.com/moses-smt/mosesdecoder.git
